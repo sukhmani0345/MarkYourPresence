@@ -54,6 +54,7 @@ pip install -r requirements.txt
 2. Now use the ```localhost``` 
 3. You will find the following link in your terminal.<br />
 ![image](https://user-images.githubusercontent.com/84336698/170706857-f70bef66-2f11-42f6-9609-8de961c5522f.png)
-4. Click on it and in chromw you will find the web app running.<br />
+4. Click on it and in chrome you will find the web app running.<br />
 
 ![image](https://user-images.githubusercontent.com/84336698/170707022-d746c6ee-3a7c-4224-b010-6240a10010cc.png)
+
