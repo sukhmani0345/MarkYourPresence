@@ -48,3 +48,10 @@ Open your code editor( VS Code preferred) and go to its terminal and run the fol
 ```
 pip install -r requirements.txt
 ```
+
+# Hosting the Web App
+1. In VS Code using the Code Runner Extension, run the ```app.py```
+2. Now use the ```localhost``` 
+3. You will find the following link in your terminal.
+![image](https://user-images.githubusercontent.com/84336698/170680982-17df7b94-1bf8-4e25-9a0e-37e277c11590.png)
+4. Click on it and in chromw you will find the web app running.
