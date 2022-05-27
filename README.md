@@ -29,3 +29,7 @@ After clicking on the button Take Attendance, the webcan will automatically capt
 **Student Details**<br />
 Here, you can check the details of the students entered till now which will ppear in the form of a table.
 
+# Installation Guide
+To use this project, follow the following steps:-
+
+Initialize the git on your terminal:
