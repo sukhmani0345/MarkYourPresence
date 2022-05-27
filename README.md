@@ -36,3 +36,15 @@ Initialize the git on your terminal:<br />
 ```
 git init
 ```
+Clone this repository:<br />
+```
+git clone https://github.com/sukhmani0345/MarkYourPresence
+```
+Change the directory<br />
+```
+cd MarkYourPresence
+```
+Open your code editor( VS Code preferred) and go to its terminal and run the following command to install all required packages:<br />
+```
+pip install -r requirements.txt
+```
