@@ -18,12 +18,12 @@ The challenge chosen by me is **Face Recognition**.
 **Register**<br />
 After clicking on the button Register, you will be redirected to the Registration page where you will have to enter your name and roll number and click the submit button. After submitting, the webcam will automatically capture your face and store the information into the TrainingImages folder within the Sub folder created automatically with your name and your detailed will be stored into the StudentDetails.csv.
 
-**Train the model**
+**Train the model**<br />
 Here, the images Stored will be used to train the model to check its accuracy that will be printed on the console.
 
-**Take Attendance**
+**Take Attendance**<br />
 After clicking on the button Take Attendance, the webcan will automatically capture your face and will show your name over the rectangle indicating that your attendance has been marked.You can check so after going into the Attendance.csv where you will find that your name roll number along with the time has been updated in the sheet.
 
-**Student Details**
+**Student Details**<br />
 Here, you can check the details of the students entered till now which will ppear in the form of a table.
 
