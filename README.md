@@ -9,7 +9,7 @@ The 3 challenges were-
 
 The challenge chosen by me is **Face Recognition**.
 
-**Mark Your Presence** is an Automatic Attendance Marker in which you just need to register only once and then just within seinds you can get your attendance marked.
+**Mark Your Presence** is an Automatic Attendance Marker in which you just need to register only once and then just within seconds you can get your attendance marked.
 
 # Mark Your Presence Features
 1. Register
