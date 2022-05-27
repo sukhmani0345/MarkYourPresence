@@ -15,7 +15,7 @@ The challenge chosen by me is **Face Recognition**.
 3. Take attendance
 4. Student Details
 
-**Register**__
+**Register**<br />
 After clicking on the button Register, you will be redirected to the Registration page where you will have to enter your name and roll number and click the submit button. After submitting, the webcam will automatically capture your face and store the information into the TrainingImages folder within the Sub folder created automatically with your name and your detailed will be stored into the StudentDetails.csv.
 
 **Train the model**
