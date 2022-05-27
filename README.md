@@ -9,7 +9,7 @@ The 3 challenges were-
 
 The challenge chosen by me is **Face Recognition**.
 
-#Mark Your Presence Features
+# Mark Your Presence Features
 1. Register
 2. Train the model
 3. Take attendance
