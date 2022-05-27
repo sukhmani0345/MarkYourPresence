@@ -32,5 +32,5 @@ Here, you can check the details of the students entered till now which will ppea
 # Installation Guide
 To use this project, follow the following steps:-
 
-Initialize the git on your terminal:
-git init
+Initialize the git on your terminal:<br />
+'git init'
