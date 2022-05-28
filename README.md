@@ -59,10 +59,6 @@ pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/84336698/170707022-d746c6ee-3a7c-4224-b010-6240a10010cc.png)
 
 # Development Cycle
-I used Trello as my primary application for designing the board for the development process of Mark Your Presence.<br />
+I used Trello as my primary application for designing the board for the development process of Mark Your Presence. I divided my entire development process into 3 sprints as shown in the images below.<br />
 ![image](https://user-images.githubusercontent.com/84336698/170844675-68fcc7c5-3757-4834-84df-68a796c21356.png)
 
-I divided my entire development process into 3 sprints as shown in the images below.<br />
-![image](https://user-images.githubusercontent.com/84336698/170844706-56bab3bd-2022-49ca-869b-676ef93e0514.png)
-![image](https://user-images.githubusercontent.com/84336698/170844711-e123d112-eac3-4724-bed0-7c08ba42b427.png)
-![image](https://user-images.githubusercontent.com/84336698/170844715-4cb1a774-d73e-4f24-a5eb-2cfc828cd3e4.png)
