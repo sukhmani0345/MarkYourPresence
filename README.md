@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/84336698/170706857-f70bef66-2f11-42f6-9609-8de961c5522f.png)
 4. Click on it and in chrome you will find the web app running.<br />
 5. Now you can access all of its features.<br />
-![image](https://user-images.githubusercontent.com/84336698/170707022-d746c6ee-3a7c-4224-b010-6240a10010cc.png)
+![image](https://user-images.githubusercontent.com/84336698/170863221-e44e81e3-eae8-464e-99f3-b670fafa66de.png)
 
 # Development Cycle
 I used Trello as my primary application for designing the board for the development process of Mark Your Presence. I divided my entire development process into 3 sprints as shown in the images below.<br />
